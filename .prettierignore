@@ -1,0 +1,8 @@
+# Add files here to ignore them from prettier formatting
+dist
+vendor
+webpack
+coverage
+*.md
+out-tsc
+.angular
